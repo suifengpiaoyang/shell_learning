@@ -1,4 +1,4 @@
-yum install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gcc make
+yum install -y zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gcc make
 
 wget https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tgz
 
